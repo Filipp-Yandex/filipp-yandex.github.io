@@ -1,4 +1,8 @@
 {
     "orientation": "any",
-    "display": "fullscreen"
+    "display": "fullscreen",
+    "start_url": "https://filipp-yandex.github.io/",
+    "description": "Filipp Yandex",
+    "short_name": "Filipp Yandex",
+    "name": "Filipp Yandex"
 }
