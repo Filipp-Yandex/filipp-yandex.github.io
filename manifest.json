@@ -4,5 +4,7 @@
     "start_url": "https://filipp-yandex.github.io/",
     "description": "Filipp Yandex",
     "short_name": "Filipp Yandex",
-    "name": "Filipp Yandex"
+    "name": "Filipp Yandex",
+    "lang": "Russian",
+    "background_color": "#808080"
 }
